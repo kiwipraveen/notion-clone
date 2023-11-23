@@ -7,7 +7,6 @@ export default function Home() {
       <p className='text-red-500 font-bold'>hello notion clone</p>
       <Button variant="destructive" size="lg">click me</Button>
       <Button variant="purple" size="sm">click me</Button>
-
     </div>
     
 
